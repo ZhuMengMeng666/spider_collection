@@ -1,0 +1,7 @@
+# spider_collection
+1.Beikespider用来爬取贝壳找房列表信息并将其保存到本地的爬虫
+2.csdn_spider则是用来爬取csdn中java文章专栏的排行榜的爬虫
+3.lhSpider则是通过seleium爬取商品评论，并将其生成词云的爬虫
+4.Teacherspider则是通过爬取河地大官网新闻专栏并进行保存
+5.wzk_spider则是用来爬取全球新冠疫情数据并将其可视化
+6.xiaoshuospider则是爬取51书城固定专栏的所有小说，并按照专栏分类-书名-章节进行保存。
